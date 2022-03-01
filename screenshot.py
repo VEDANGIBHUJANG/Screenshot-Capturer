@@ -1,5 +1,4 @@
 #project 1
-#pip install pyautogui
 import time
 import pyautogui
 import tkinter as tk
